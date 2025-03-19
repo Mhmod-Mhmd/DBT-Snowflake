@@ -10,10 +10,15 @@ Python – Scripting and automation
 Git – Version control
 ## Project Structure
  snowflake_data_project/
+ 
 │──  models/                 # dbt models (staging, marts)
+
 │──  dags/                   # Airflow DAGs (for scheduling)
+
 │──  logs/                   # Airflow logs
+
 │──  seeds/                  # Sample seed data for dbt
+
 │──  macros/                 # dbt macros
 │──  dbt_project.yml         # dbt project config file
 │──  README.md               # Project documentation
