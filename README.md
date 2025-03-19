@@ -20,5 +20,7 @@ Git – Version control
 │──  seeds/                  # Sample seed data for dbt
 
 │──  macros/                 # dbt macros
+
 │──  dbt_project.yml         # dbt project config file
+
 │──  README.md               # Project documentation
